@@ -9,6 +9,7 @@ public:
             if(s.first==target){
                 if(s.second>0){
                     return true;
+                    break;
                 }
             }
         }

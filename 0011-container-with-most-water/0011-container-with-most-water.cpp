@@ -8,11 +8,11 @@ public:
         while(st<ed){
             int mins=min(height[st],height[ed]);
             maxarea=max(maxarea,((mins)*(ed-st)));
-            if(height[st]<height[ed]){
-                st++;
+            if(height[st]>=height[ed]){
+                ed--;
             }
             else{
-                ed--;
+                st++;
             }
         }
         return maxarea;

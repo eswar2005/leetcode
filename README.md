@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/eswar2005/leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eswar2005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eswar2005/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/eswar2005/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eswar2005/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/eswar2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/eswar2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/eswar2005/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eswar2005/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

@@ -27,9 +27,6 @@ public:
             temp1=temp1->next;
             
         }
-        if(cnt==s){
-                head=temp;
-        }
         return temp1;
     }
 };

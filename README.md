@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswar2005/leetcode/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/eswar2005/leetcode/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/eswar2005/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/eswar2005/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1448-maximum-69-number](https://github.com/eswar2005/leetcode/tree/master/1448-maximum-69-number) |
 | [2748-calculate-delayed-arrival-time](https://github.com/eswar2005/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Bit Manipulation
 |  |

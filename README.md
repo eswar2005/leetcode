@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/eswar2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/eswar2005/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eswar2005/leetcode/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/eswar2005/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

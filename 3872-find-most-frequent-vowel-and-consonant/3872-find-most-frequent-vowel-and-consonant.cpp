@@ -8,7 +8,7 @@ public:
             mp[i]++;
         }
         
-       for (auto& i : mp) {
+       for (auto i : mp) {
     if (i.first == 'a' || i.first == 'e' || i.first == 'i' || i.first == 'o' || i.first == 'u') {
         maxs_v = max(maxs_v, i.second);
     } else {

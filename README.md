@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/eswar2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/eswar2005/leetcode/tree/master/2502-sort-the-people) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eswar2005/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eswar2005/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3778-transform-array-by-parity](https://github.com/eswar2005/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/eswar2005/leetcode/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/eswar2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2748-calculate-delayed-arrival-time](https://github.com/eswar2005/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eswar2005/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
 | ------- |

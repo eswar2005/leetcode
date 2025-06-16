@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/eswar2005/leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/eswar2005/leetcode/tree/master/1448-maximum-69-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/eswar2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/eswar2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/eswar2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Sorting
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/eswar2005/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/eswar2005/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/eswar2005/leetcode/tree/master/1448-maximum-69-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/eswar2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/eswar2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/eswar2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2748-calculate-delayed-arrival-time](https://github.com/eswar2005/leetcode/tree/master/2748-calculate-delayed-arrival-time) |

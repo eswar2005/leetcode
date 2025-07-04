@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/eswar2005/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/eswar2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/eswar2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/eswar2005/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/eswar2005/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/eswar2005/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/eswar2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |

@@ -209,17 +209,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/eswar2005/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eswar2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eswar2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/eswar2005/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eswar2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eswar2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/eswar2005/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/eswar2005/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eswar2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eswar2005/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Simulation
 |  |
@@ -241,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/eswar2005/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eswar2005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

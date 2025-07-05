@@ -35,7 +35,7 @@ public:
                 // }
             }
         }
-        return cnt-1;
+        return 0;
     }
     int minDepth(TreeNode* root) {
         return bfs(root);

@@ -16,7 +16,4 @@ class Solution:
                         l.pop()
                     else:
                         return False
-        if len(l)==0:
-            return True
-        else:
-            return False
+        return len(l)==0

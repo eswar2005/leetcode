@@ -15,7 +15,7 @@ public:
     }
     
     void push(int x) {
-        return pushh(x);
+        pushh(x);
     }
     
     int pop() {

@@ -1,10 +1,10 @@
 class MyStack {
     private:
-    stack<int>  st;
+    queue<int>  st;
     void pushh(int x){
         st.push(x);
         for(int i=1;i<st.size();i++){
-            st.push(st.top());
+            st.push(st.front());
             st.pop();
         }
     }
@@ -19,13 +19,13 @@ public:
     }
     
     int pop() {
-        int x=st.top();
+        int x=st.front();
         st.pop();
         return x;
     }
     
     int top() {
-        return st.top();
+        return st.front();
     }
     
     bool empty() {

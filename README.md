@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/eswar2005/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/eswar2005/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/eswar2005/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/eswar2005/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/eswar2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/eswar2005/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/eswar2005/leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |

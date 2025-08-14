@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/eswar2005/leetcode/tree/master/1666-make-the-string-great) |
 | [2032-largest-odd-number-in-string](https://github.com/eswar2005/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/eswar2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/eswar2005/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/eswar2005/leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/eswar2005/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching

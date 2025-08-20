@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eswar2005/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/eswar2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/eswar2005/leetcode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/eswar2005/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/eswar2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eswar2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/eswar2005/leetcode/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/eswar2005/leetcode/tree/master/2058-concatenation-of-array) |
 ## Merge Sort
 |  |
 | ------- |

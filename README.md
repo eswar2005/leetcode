@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/eswar2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eswar2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/eswar2005/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/eswar2005/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eswar2005/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eswar2005/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/eswar2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/eswar2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/eswar2005/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/eswar2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/eswar2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/eswar2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eswar2005/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/eswar2005/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/eswar2005/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/eswar2005/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/eswar2005/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |

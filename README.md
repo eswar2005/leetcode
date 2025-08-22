@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/eswar2005/leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/eswar2005/leetcode/tree/master/0326-power-of-three) |

@@ -25,9 +25,9 @@ class Solution {
                 cnt++;
             } 
             else {
-                if (cnt > 0) {
+               // if (cnt > 0) {
                     break; 
-                }
+                //}
             }
         }
         return cnt;

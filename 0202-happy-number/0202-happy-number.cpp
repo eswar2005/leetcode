@@ -10,11 +10,18 @@ public:
                 sum+=(a*a);
                 n/=10;
             }
-            if(find(num.begin(),num.end(),sum)!=num.end())
-                return false;
-            num.push_back(sum);
+            // if(find(num.begin(),num.end(),sum)!=num.end())
+            //     return false;
+            // num.push_back(sum);
             n=sum;
+            if(n<8){
+                break;
+            }
+            //cout<<n<<" ";
         }
-        return true;
+        if(n==1 || n==7){
+            return true;
+        }
+        return false;
     }
 };

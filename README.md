@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eswar2005/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eswar2005/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/eswar2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/eswar2005/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/eswar2005/leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/eswar2005/leetcode/tree/master/0204-count-primes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/eswar2005/leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/eswar2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/eswar2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/eswar2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/eswar2005/leetcode/tree/master/0202-happy-number) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/eswar2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/eswar2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/eswar2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

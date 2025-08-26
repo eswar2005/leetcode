@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/eswar2005/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eswar2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/eswar2005/leetcode/tree/master/0443-string-compression) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/eswar2005/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/eswar2005/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/eswar2005/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/eswar2005/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/eswar2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/eswar2005/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/eswar2005/leetcode/tree/master/0520-detect-capital) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eswar2005/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/eswar2005/leetcode/tree/master/1666-make-the-string-great) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/eswar2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eswar2005/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/eswar2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/eswar2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/eswar2005/leetcode/tree/master/0682-baseball-game) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/eswar2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/eswar2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/eswar2005/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/eswar2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eswar2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/eswar2005/leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/eswar2005/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/eswar2005/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/eswar2005/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/eswar2005/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/eswar2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/eswar2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/eswar2005/leetcode/tree/master/0682-baseball-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/eswar2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/eswar2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/eswar2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/eswar2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Union Find

@@ -359,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/eswar2005/leetcode/tree/master/0183-customers-who-never-order) |
+| [0627-swap-salary](https://github.com/eswar2005/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->

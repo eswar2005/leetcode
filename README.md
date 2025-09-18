@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eswar2005/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/eswar2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/eswar2005/leetcode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/eswar2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/eswar2005/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/eswar2005/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/eswar2005/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/eswar2005/leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eswar2005/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/eswar2005/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/eswar2005/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eswar2005/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |

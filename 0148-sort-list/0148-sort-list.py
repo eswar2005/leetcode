@@ -5,17 +5,37 @@
 #         self.next = next
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
-            return None
-        temp=head
-        l=[]
-        while temp:
-            l.append(temp.val)
-            temp=temp.next
-        k=sorted(l)
-        head=ListNode(k[0])
-        curr=head
-        for i in k[1:]:
-            curr.next=ListNode(i)
-            curr=curr.next
-        return head
+        if not head or not head.next:
+            return head
+
+        slow=head
+        fast=head.next
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+        
+        mid=slow.next
+        slow.next=None
+
+        left=self.sortList(head)
+        right=self.sortList(mid)
+
+        return self.merge(left,right)
+
+    def merge(self,l1: Optional[ListNode],l2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy=ListNode(0)
+        tail=dummy
+
+        while l1 and l2:
+            if l1.val<l2.val:
+                tail.next=l1
+                l1=l1.next
+            else:
+                tail.next=l2
+                l2=l2.next
+            tail=tail.next
+        
+        tail.next=l1 or l2
+
+        return dummy.next
+        

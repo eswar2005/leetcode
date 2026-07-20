@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/eswar2005/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/eswar2005/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/eswar2005/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eswar2005/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/eswar2005/leetcode/tree/master/0118-pascals-triangle) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/eswar2005/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/eswar2005/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/eswar2005/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/eswar2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/eswar2005/leetcode/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/eswar2005/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/eswar2005/leetcode/tree/master/1827-invalid-tweets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/eswar2005/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/eswar2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/eswar2005/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/eswar2005/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/eswar2005/leetcode/tree/master/0724-find-pivot-index) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/eswar2005/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/eswar2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/eswar2005/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eswar2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eswar2005/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/eswar2005/leetcode/tree/master/0704-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/eswar2005/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/eswar2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers

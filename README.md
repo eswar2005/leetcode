@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/eswar2005/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eswar2005/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/eswar2005/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/eswar2005/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/eswar2005/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/eswar2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/eswar2005/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/eswar2005/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/eswar2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/eswar2005/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/eswar2005/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/eswar2005/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/eswar2005/leetcode/tree/master/0371-sum-of-two-integers) |
